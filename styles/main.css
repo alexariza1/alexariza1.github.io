@@ -1,0 +1,63 @@
+body{
+	background-color:  	#008080;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+h2{
+	color: white;
+	text-align: center;
+	font-family: 'Calibri', sans-serif;
+}
+
+p{
+	padding: 50px;
+	text-align: left;
+	font-size: 20px;
+	font-family: 'Indie Flower', cursive;
+	color: blue;
+}
+
+img{
+padding: 50px;
+width: 500px;
+height: 300px;
+}
+
+li{
+	color: white;
+	display: inline;
+	margin-right: 10px;
+	
+}
+
+a:link {
+	text-decoration: none;
+	color: blue;
+}
+	a:visited{
+	color: blue;
+}
+
+a:hover {
+	text-decoration: underlined;
+	color: deepskyblue;
+}
+
+a:active{
+	color: darkblue;
+} 
+nav{
+	
+	text-align: center;
+}
+
+
+hr{
+color: blue;
+}
